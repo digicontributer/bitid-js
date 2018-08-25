@@ -1,6 +1,6 @@
 {
   "name": "digiid",
-  "description": "JavaScript implementation of the DigiID authentication protocol: https://github.com/bitid/bitid",
+  "description": "JavaScript implementation of the Digi-ID authentication protocol: https://www.digi-id.io/",
   "version": "0.0.3",
   "author": {
     "name": "Aaron Caswell",
