@@ -1,7 +1,7 @@
 {
   "name": "digiid",
   "description": "JavaScript implementation of the Digi-ID authentication protocol: https://www.digi-id.io/",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": {
     "name": "Aaron Caswell",
     "email": "aaron@captureplay.com",
