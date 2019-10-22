@@ -8,7 +8,7 @@
     "url": "https://github.com/porkchop"
   },
   "dependencies": {
-    "digibyte-message": "git://github.com/digicontributer/bitcore-message.git#9d9c8ad30158db25f683e2dee746a14a9d7ec8a0"
+    "digibyte-message": "git://github.com/digicontributer/bitcore-message.git#6628f69255230d90fd707aef0580629e8a913fec"
   },
   "devDependencies": {
     "should": "3.3.1",
